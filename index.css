@@ -181,7 +181,7 @@ body {
 }
 @media only screen and (max-width: 850px){
     .navbar{
-        height: 285px;
+        height: 290px;
         flex-direction: column;
         justify-content: center;
         transition: all 0.3s linear;
